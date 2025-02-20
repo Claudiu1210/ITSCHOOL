@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mocan\\source\\repos\\firstprogram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{282F0845-1F5D-4208-9CDF-C96F136A844E}|firstprogram\\firstprogram.vcxproj|C:\\Users\\mocan\\source\\repos\\firstprogram\\firstprogram\\firstprogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{282F0845-1F5D-4208-9CDF-C96F136A844E}|firstprogram\\firstprogram.vcxproj|solutionrelative:firstprogram\\firstprogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "firstprogram.cpp",
+              "DocumentMoniker": "C:\\Users\\mocan\\source\\repos\\firstprogram\\firstprogram\\firstprogram.cpp",
+              "RelativeDocumentMoniker": "firstprogram\\firstprogram.cpp",
+              "ToolTip": "C:\\Users\\mocan\\source\\repos\\firstprogram\\firstprogram\\firstprogram.cpp*",
+              "RelativeToolTip": "firstprogram\\firstprogram.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T16:45:03.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
